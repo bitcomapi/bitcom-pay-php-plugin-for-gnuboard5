@@ -1,14 +1,8 @@
 <?php
 if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
 ?>
-<link rel="stylesheet" href="http://demo.bitcom.com/pay/vendor/bootstrap/css/bootstrap.css"/>
-<link rel="stylesheet" href="http://demo.bitcom.com/pay/dist/css/bootstrapValidator.css"/>
-
-<script type="text/javascript" src="http://demo.bitcom.com/pay/vendor/jquery/jquery.min.js"></script>
-<script type="text/javascript" src="http://demo.bitcom.com/pay/vendor/bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="http://demo.bitcom.com/pay/dist/js/bootstrapValidator.js"></script>
-<script type="text/javascript" src="http://demo.bitcom.com/pay/js/jQuery.md5.js"></script>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.0/css/bootstrap.css"/>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <style type="text/css">
 .btn_app_download {display:inline-block;height:40px;margin-bottom:5px;}
 .btn_app_download img {height:100%;}
@@ -31,7 +25,7 @@ if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
 <div class="container">
     <div class="row" style="padding-bottom: 15px;">
 				<div class="col-xs-12" style="text-align: center;">
-          <img src="http://demo.bitcom.com/pay/img/index_code.jpg" id="imgSrc" style="width: 220px;border: 1px solid #dcdcdc;"/>
+          <img src="img/dummy_qr_code.jpg" id="imgSrc" style="width: 220px;border: 1px solid #dcdcdc;"/>
         </div>
 		</div>
     <div class="row">
