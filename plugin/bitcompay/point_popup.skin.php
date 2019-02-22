@@ -88,7 +88,8 @@ async function submit() {
 		$.ajax({
 			cache: true,
 			type: "POST",
-			url:  "http://payapi.excatch.com/api/bus/qrcode/create",
+			url:  "http://payapi.excatch.com/api/bus/qrcode/create", // Test API Server
+			// url:  "https://payapi.bitcom.com/api/bus/qrcode/create", // Real Operating API Server
 			data: params,
 			error: function (jqXHR, exception) {
 				console.error(jqXHR, exception);
