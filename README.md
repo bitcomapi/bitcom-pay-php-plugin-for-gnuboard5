@@ -1,4 +1,4 @@
 # bitcom-pay-php-plugin-for-gnuboard5
 
-Demo: http://gnuboard5.iptime.org
-BitcomPay App: https://fir.im/dpg5
+- Plugin Demo: http://gnuboard5.coding-school.io
+- BitcomPay App: https://fir.im/dpg5
