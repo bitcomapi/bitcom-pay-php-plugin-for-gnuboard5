@@ -10,17 +10,18 @@ if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
 
 <div id="point" class="new_win">
     <h1 id="win_title" style="margin-top: 0;"><?php echo $g5['title'] ?></h1>
+</div>
 
-    <div class="tbl_head01 tbl_wrap">
+    <!-- <div class="tbl_head01 tbl_wrap">
 		<ul style="list-style:none;margin:0;padding:0;line-height:2em;">
 			<li>- 빗컴페이 앱를 이용해서 결제할 수 있습니다.</li>
 			<li>- 빗컴페이 앱을 설치하시기 바랍니다.</li>
 			<li>
-				<a href="https://play.google.com/store/apps/details?id=com.ffk.originalbitcom" target="_blank" class="btn_app_download"><img src="img/btn_app_download_google.png" alt="Google Play"/></a>
-				<!-- <a href="https://itunes.apple.com/app/" target="_blank" class="btn_app_download"><img src="img/btn_app_download_apple.png" alt="Apple App Store"/></a> -->
+			<a href="https://play.google.com/store/apps/details?id=com.ffk.originalbitcom" target="_blank" class="btn_app_download"><img src="img/btn_app_download_google.png" alt="Google Play"/></a>
+				<a href="https://itunes.apple.com/app/" target="_blank" class="btn_app_download"><img src="img/btn_app_download_apple.png" alt="Apple App Store"/></a>
 			</li>
-		</ul>
-</div>
+		</ul> -->
+			<a target="_blank" href='https://play.google.com/store/apps/details?id=com.ffk.originalbitcom&utm_source=gnuboard5.coding-school.io&utm_campaign=gnuboard5&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style="width: 200px;"/></a>
 
 <div class="container">
     <div class="row" style="padding-bottom: 15px;">
