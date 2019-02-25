@@ -22,6 +22,7 @@ if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
 			</li>
 		</ul> -->
 			<a target="_blank" href='https://play.google.com/store/apps/details?id=com.ffk.originalbitcom&utm_source=gnuboard5.coding-school.io&utm_campaign=gnuboard5&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style="width: 200px;"/></a>
+			<a target="_blank" href='https://fir.im/dpg5'><img alt='Download for iOS' src='./img/btn_app_download_for_iOS.png' style="width: 200px;"/></a>
 
 <div class="container">
     <div class="row" style="padding-bottom: 15px;">
