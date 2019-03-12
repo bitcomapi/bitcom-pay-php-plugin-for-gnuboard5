@@ -1,8 +1,8 @@
 <?php
   // Set the key for access to the API server
   $keys = array(
-    "app_key" => 9747629,
-    "secret_key" => "vcb70635ec7kfvu5"
+    "app_key" => 9747629, // it's example app_key
+    "secret_key" => "vcb70635ec7kfvu5" // it's example secret_key
   );
 
   // Parameters to be provided to API server to generate qr(base64)code
